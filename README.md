@@ -1,6 +1,6 @@
 # Ghida_Portfolio
 
-# [Project 1: Data Science Salary Estimator][https://ghidashaaban.github.io/Ghida_Portfolio/]
+# [Project 1: Data Science Salary Estimator](https://ghidashaaban.github.io/Ghida_Portfolio/)
 <ul>
 <li>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.</li>
 <li>Scraped over 1000 job descriptions from glassdoor using python and selenium </li>
